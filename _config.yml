@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://messil.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -19,7 +19,7 @@ appstore_url: "http://appstore"
 mailchimp_action_url: "//hugeship.us11.list-manage.com/subscribe/post?u=b4f9dba1ba16386a203fd674a&amp;id=66043f98fa"
 mailchimp_hidden_field_name: "b_b4f9dba1ba16386a203fd674a_66043f98fa"
 
-facebook_share_app_id: "152899188234913"
-  
+facebook_share_app_id: "105031042867355"
+
 # Build settings
 markdown: kramdown
