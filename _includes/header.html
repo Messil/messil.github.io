@@ -1,0 +1,35 @@
+<header class="blog-header clearfix">
+        <div class="blog-logo">
+            <a href="/" class="logo"></a>
+        </div>
+        <div class="blog-top-nav hidden-xs">
+            <ul class="list-inline">
+              {% if page.url == '/promo.html' %}
+                <li><a href="/promo.html" class="active">Mobile App</a></li>
+              {% else %}
+                <li><a href="/promo.html">Mobile App</a></li>
+              {% endif %}
+              {% if page.url == '/blog.html' %}
+                <li><a href="/blog.html" class="active">Blog</a></li>
+              {% else %}
+                <li><a href="/blog.html">Blog</a></li>
+              {% endif %}
+              {% if page.url == '/faq.html' %}
+                <li><a href="/faq.html" class="active">F.A.Q. &amp; Support</a></li>
+              {% else %}
+                <li><a href="/faq.html">F.A.Q. &amp; Support</a></li>
+              {% endif %}
+            </ul>
+        </div>
+        <div class="subscribe hidden-xs">
+            <a class="btn pull-right hidden-xs" data-toggle="modal" data-target="#subscribe-modal" href="#">Subscribe</a>
+        </div>
+        <div class="visible-xs pull-right nav-btn">
+            <a href="#">
+
+            </a>
+        </div>
+    <div class="mob-nav visible-xs">
+      {% include mobilenav-dropdown.html %}
+    </div>
+</header>
