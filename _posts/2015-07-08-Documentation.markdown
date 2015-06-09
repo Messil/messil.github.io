@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Markdown: Syntax"
+title:  "Documentation"
 date:   2015-06-04 21:15:03
 categories: favorites
 favorite: 1
