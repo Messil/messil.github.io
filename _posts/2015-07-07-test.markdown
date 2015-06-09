@@ -3,7 +3,7 @@ layout: post
 title:  "Markdown: Syntax Test"
 date:   2015-06-04 21:15:03
 categories: favorites
-favorite: 1
+favorite: 0
 ---
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
