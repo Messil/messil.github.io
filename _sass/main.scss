@@ -215,6 +215,12 @@ header {
             border-color: #f94045;
         }
     }
+    &.home-header {
+      height: 68px;
+      .logo {
+        margin-top: 20px;
+      }
+    }
 }
 .logo {
     display: block;
@@ -357,9 +363,10 @@ header {
     color: #fff;
     overflow: hidden;
     position: relative;
-    & > img {
+    min-height: 550px;
+    .devices-image {
         position: absolute;
-        bottom: 0;
+        bottom: -1px; // :(
         left: 50%;
     }
     & h1 {
@@ -373,7 +380,7 @@ header {
     }
     & .to-store {
         margin-top: 62px;
-        margin-bottom: 120px;
+//        margin-bottom: 120px;
         & .app-store {
             margin-right: 16px;
         }
@@ -927,6 +934,13 @@ header {
     .promo-top {
         padding: 0;
         text-align: center;
+        min-height: inherit;
+        .devices-image {
+            height: 230px;
+            position: static;
+            margin: 20px auto 0;
+            padding-left: 30px;
+        }
         & > div {
             margin: 0;
             padding: 0 20px;
@@ -994,6 +1008,7 @@ header {
             background-size: contain;
             margin-top: 15px;
         }
+
         &.blog-header {
             border-bottom: 0px;
             & .logo {
@@ -1083,6 +1098,12 @@ header {
                 color: #d0d0d0;
                 padding-bottom: 15px;
             }
+        }
+        &.home-header {
+          height: auto;
+          .logo {
+            margin-top: 15px;
+          }
         }
     }
     .logo {
