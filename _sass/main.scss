@@ -115,7 +115,7 @@ h2 {
     & li {
         border-radius: 50%;
         display: inline-block;
-        margin: 0 5px;
+        margin: 2px 5px;
         height: 8px;
         width: 8px;
         border: 1px solid transparent;
@@ -216,9 +216,9 @@ header {
         }
     }
     &.home-header {
-      height: 68px;
+      height: 54px;
       .logo {
-        margin-top: 20px;
+        margin-top: 12px;
       }
     }
 }
@@ -855,7 +855,7 @@ header {
         & .footer-nav {
             & .copyright {
                 display: block;
-                padding-left: 25px;
+                padding-left: 20px;
                 margin-top: 10px;
             }
             & li {
@@ -1012,8 +1012,8 @@ header {
         &.blog-header {
             border-bottom: 0px;
             & .logo {
-                margin-left: 20px;
-                margin-top: 15px;
+                margin-left: 15px;
+                margin-top: 13px;
             }
         }
         & .nav-btn {
@@ -1054,7 +1054,7 @@ header {
             background: #c4fff7;
             text-align: center;
             & .dropdown-content {
-                padding-top: 72px;
+                padding-top: 44px;
                 padding-bottom: 0;
                 &>ul {
                     padding-bottom: 0;
