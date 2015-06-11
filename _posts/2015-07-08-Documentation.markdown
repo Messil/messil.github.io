@@ -2,7 +2,6 @@
 layout: post
 title:  "Documentation"
 date:   2015-06-04 21:15:03
-categories: favorites
 favorite: 1
 ---
 
@@ -10,9 +9,9 @@ It’s not unusual when on call to see a patient, write an order and quickly mov
 
 Anyhow, residents must be careful not to forget to document things as they happen. It’s not only common courtesy to your colleagues and allied health care professionals: it’s the law.
 
-Great residents are great communicators. 
+Great residents are great communicators.
 
-Write down 
+Write down
 
 - Date and time
 - Your name and who you are

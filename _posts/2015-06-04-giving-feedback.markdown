@@ -2,14 +2,13 @@
 layout: post
 title:  "Giving feedback"
 date:   2015-06-04 21:15:03
-categories: favorites
 favorite: 1
 ---
 As with teaching, giving constructive feedback is an important skill to gain. Here’s a few tips to make it easier. As a bonus, it’s an acronym. We all like acronyms!
 
 ## Frequent.
 
-We’ve all heard stories of someone going through a rotation “smoothly” and on the last day they get a super bad evaluation. Frequent feedback will allow the student to adjust to your style and improve. 
+We’ve all heard stories of someone going through a rotation “smoothly” and on the last day they get a super bad evaluation. Frequent feedback will allow the student to adjust to your style and improve.
 
 ## Expected.
 

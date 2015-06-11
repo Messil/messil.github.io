@@ -23,3 +23,6 @@ facebook_share_app_id: "105031042867355"
 
 # Build settings
 markdown: kramdown
+
+#output settings
+permalink: none
