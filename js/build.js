@@ -62,4 +62,18 @@ $(document).ready(function () {
           }
         }).trigger('resize');
     }
+    if (window.devicePixelRatio > 1) {
+
+        images.each(function(i) {
+           var filename = $(this).attr('src').split('.'),
+               extension = filename.pop();
+           filename = filename.pop();
+           if (extension == 'png')
+           {
+              filename = filename + '@2x.' + extension;
+              console.log(filename);
+              $(this).attr('src', filename);
+           }
+        });
+     }
 });
