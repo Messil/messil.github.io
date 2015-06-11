@@ -536,6 +536,10 @@ header {
     & .copyright {
         font-size: 16px;
         color: #ffb1b0;
+        a {
+          font-size: 16px;
+          color: #ffb1b0;
+        }
         margin-right: 32px;
     }
     & .footer-nav {
@@ -1100,6 +1104,10 @@ header {
             & .copyright {
                 font-size: 14px;
                 color: #d0d0d0;
+                a {
+                  font-size: 14px;
+                  color: #d0d0d0;
+                }
                 padding-bottom: 15px;
             }
         }
