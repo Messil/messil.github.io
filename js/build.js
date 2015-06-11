@@ -50,9 +50,9 @@ $(document).ready(function () {
     $('.carousel').carousel();
     if ($('#mob-apps').length) {
         $( window ).resize(function() {
-          if ($('#to-blog').height() < ($(window).height() - $('header').height())) {
-              $('#to-blog').outerHeight($(window).height() - $('header').height());
-          }
+
+          $('#to-blog').css('min-height', $(window).height() - $('header').height());
+
           if ($('#mob-apps').height() < $('#to-blog').height()) {
               $('#mob-apps').height($('#to-blog').height());
           }
