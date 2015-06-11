@@ -760,31 +760,50 @@ header {
         }
     }
 }
+
 .five-sections {
     padding: 66px 20px;
-    & .five-main {
-        padding-left: 80px;
-        padding-right: 30px;
-        margin-top: 96px;
-        background-image: url(../images/iphone-with-article.png);
-        background-position: 50% 0;
-        background-repeat: no-repeat;
-        min-height: 750px;
-        & > div {
-            max-width: 345px;
-            padding-top: 30px;
-            & h3 {
-                margin-top: 50px;
-                font-weight: 700;
-                color: #f94045;
-            }
-            & p {
-                margin-top: 16px;
-                font-size: 18px;
-            }
-        }
+  .text-block {
+    display:inline-block;
+    width: 33%;
+    padding: 90px 45px 0px;
+    text-align: center;
+    vertical-align: top;
+    h3 {
+      margin-top: 0px;
+      font-size: 18px;
+      color: #F94045;
+      font-weight: bold;
     }
+    p {
+      font-size: 18px;
+      font-weight: normal;
+      color: #3D3D3D;
+    }
+  }
 }
+@media(max-width:767px) {
+  .five-sections {
+    h2 {
+      font-size: 26px;
+      padding-bottom: 16px;
+      line-height: 37px;
+    }
+    .text-block {
+      display: block;
+      width: 100%;
+      min-width: 250px;
+      padding: 14px 0;
+      h3 {
+        font-size: 16px;
+      }
+      p {
+        font-size: 16px;
+      }
+    }
+  }
+}
+
 .first-night {
     padding: 66px 20px;
     background: url(../images/first-night-on-call-background.png) 50% 50% no-repeat;
@@ -892,27 +911,7 @@ header {
     .about-us .about-images img {
         height: 285px;
     }
-    .five-sections .five-main>div {
-        max-width: 330px;
-    }
-    .five-sections {
-        padding: 32px 20px;
-        & .five-main {
-            padding: 0;
-            background-position: 360px 0;
-            min-height: 412px;
-            margin-top: 28px;
-            & > div {
-                max-width: 300px;
-                & h3 {
-                    display: none;
-                }
-                & p {
-                    margin-top: 55px;
-                }
-            }
-        }
-    }
+
     .default-footer .footer-nav li {
         padding: 0 10px;
     }
@@ -1370,15 +1369,7 @@ header {
             }
         }
     }
-    .five-sections {
-        & .five-main {
-            padding: 0;
-            background-position: 200px 0;
-            &>div {
-                max-width: 190px;
-            }
-        }
-    }
+
     .first-night {
         padding: 32px 20px;
         & p {
