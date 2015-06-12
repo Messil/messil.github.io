@@ -14,19 +14,19 @@ Hopefully, unlike me *link at the “story”*, you’ll have time to prepare fo
 - Confortable shoes.
 - Phone charger. Don’t. Forget. Your. Charger.
 
-# Food strategy
+## Food strategy
 
 Before the big day, make sure you know the operating hours of the cafeteria and snacks places in the hospital. Set an alert on your phone so you don’t miss them. Also, I recommend you look at what’s available in the vending machines. Ask around to know where to get the best coffee.
 
 Check with your fellow residents. In my hospital, we would get together and order out (usually Cambodian food; my favourite). It was always the highlight of the evening. Well worth it.
 
-# Know your way around the hospital
+## Know your way around the hospital
 
 Make sure your ID badge works with the door locking system. Mine didn’t and it lead to an interesting evening. It’s way easier to get that fixed during the day. You also want to know where the call rooms are, how to access that section and which room is yours. You don’t want to walk in someone else’s room in the middle of the night.
 
 If you’re lucky, your seniors will have printed a list of important numbers and contact information. If not, I recommend you take time and gather those just in case. The operator usually have those numbers close by, but it’s more efficient to have them handy.
 
-# Know where to find the information you need
+## Know where to find the information you need
 
 Often, there’s a “secret” on call document being handed over from seniors to juniors. They often contains protocols as well as general advice on how to survive the night. Unfortunately, they usually contain copyrighted material and therefore cannot be mass printed or sold at the bookstore. Try to get your hands on it.
 
