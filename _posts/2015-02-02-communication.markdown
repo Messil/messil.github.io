@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Communication”
+title:  "Communication"
 date:   2015-02-02 21:15:03
 favorite: 0
 ---
@@ -82,10 +82,7 @@ Ideally, the same process should take place the next morning. From experience, i
 
 ## References
 
-Gawande AA, Zinner MJ, Studdert DM, Brennan TA. Analysis of errors reported by surgeons at three teaching hospitals. Surgery. 2003;133:614–621. doi: 10.1067/msy.2003.169. [PubMed]
-
-Gandhi TK, Kachalia A, Thomas EJ, Puopolo AL, Yoon C, Brennan TA, Studdert DM. Missed and delayed diagnoses in the ambulatory setting: a study of closed malpractice claims. Ann Intern Med. 2006;145:488–496. [PubMed]
-
-Michael D Cohen, Brian Hilligoss, André Carlos Kajdacsy-Balla Amaral. A handoff is not a telegram: an understanding of the patient is co-constructed. Crit Care. 2012; 16(1): 303.
-
-[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3396216/#B7](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3396216/#B7)
+1. Gawande AA, Zinner MJ, Studdert DM, Brennan TA. Analysis of errors reported by surgeons at three teaching hospitals. Surgery. 2003;133:614–621. doi: 10.1067/msy.2003.169. [PubMed]
+2. Gandhi TK, Kachalia A, Thomas EJ, Puopolo AL, Yoon C, Brennan TA, Studdert DM. Missed and delayed diagnoses in the ambulatory setting: a study of closed malpractice claims. Ann Intern Med. 2006;145:488–496. [PubMed]
+3. Michael D Cohen, Brian Hilligoss, André Carlos Kajdacsy-Balla Amaral. A handoff is not a telegram: an understanding of the patient is co-constructed. Crit Care. 2012; 16(1): 303.
+4. [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3396216/#B7](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3396216/#B7)
