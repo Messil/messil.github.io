@@ -31,23 +31,31 @@ I’m writing this on Evernote. I studied for my board exams using Evernote. Why
 
 Evernote syncs your notes in real time across all your devices (including your laptop). You can attach pretty much any type of file to your note, search them, reorganise them…
 
-The service is free for a “basic” account. The Premium account benefits [http://evernote.com/premium/](http://evernote.com/premium/) changes from time to time, but for me, the ability to work offline is the best feature of the Premium upgrade. — Especially good for hospital basements.
+The service is free for a “basic” account. The [Premium account](http://evernote.com/premium/)benefits changes from time to time, but for me, the ability to work offline is the best feature of the Premium upgrade. — Especially good for hospital basements.
 
-Michael Hyatt wrote some good blog posts on how to work with Evernote. [http://michaelhyatt.com/how-to-organize-evernote-for-maximum-efficiency.html](http://michaelhyatt.com/how-to-organize-evernote-for-maximum-efficiency.html)
+Michael Hyatt [wrote some good blog posts](http://michaelhyatt.com/how-to-organize-evernote-for-maximum-efficiency.html) on how to work with Evernote. 
 
-iMedicalApps did something similar but less extensive (but more medically focused — although it’s getting old…) [http://www.imedicalapps.com/2012/06/medical-professionals-evernote-app-productivity-learning-mobile/](http://www.imedicalapps.com/2012/06/medical-professionals-evernote-app-productivity-learning-mobile/)
+[iMedicalApps did something similar](http://www.imedicalapps.com/2012/06/medical-professionals-evernote-app-productivity-learning-mobile/) but less extensive (but more medically focused — although it’s getting old…).
 
 I strongly recommend *NOT* taking patient notes using Evernote. It’s not HIPAA compliant and could get you in trouble if there’s ever a security breach.
 
-Other apps offers similar features, such as Microsoft OneNote [http://office.microsoft.com/en-us/onenote/ and Simplenote http://simplenote.com/](http://office.microsoft.com/en-us/onenote/). I haven’t played around with them so I can’t comment on their functionalities.
+Other apps offers similar features, such as [Microsoft OneNote](http://office.microsoft.com/en-us/onenote/) and [Simplenote](http://simplenote.com/). I haven’t played around with them so I can’t comment on their functionalities.
 
 ## Procedure apps
 
-Let’s face it: we all YouTube’d procedures we were not familiar with. It makes medical educators cringe, but it’s real life. RealWorld Procedure [https://itunes.apple.com/ca/app/realworld-procedures/id599417830?mt=8](https://itunes.apple.com/ca/app/realworld-procedures/id599417830?mt=8) is a good place to start instead of the ’Tube for general procedures. It’s based on the PocketSnipProdedural Skill Project (PocketSnips.org) so at least you know the information is backed and produced by multiple Faculty of Medicine. Great content, all for free.
+Let’s face it: we all YouTube’d procedures we were not familiar with. It makes medical educators cringe, but it’s real life. 
+
+[RealWorld Procedure ](https://itunes.apple.com/ca/app/realworld-procedures/id599417830?mt=8) is a good place to start instead of the ’Tube for general procedures. It’s based on the PocketSnipProdedural Skill Project ([PocketSnips.org](PocketSnips.org)) so at least you know the information is backed and produced by multiple Faculty of Medicine. Great content, all for free.
 
 ## Medication app
 
-There are two better known players in that field. Epocrates and Micromedex. There are many others, but I’ve never seen anyone use them. I’m personally not a huge fan of either as their user interfaces are lacking, but I tend to gravitate back to Epocrates. Epocrates is technically free and Micromedex just recently started charging $2.99 for the app. Both apps sell some of your information such as specialty or browsing history to pharmas which is something people need to be aware of. [http://www.imedicalapps.com/2011/06/hidden-costs-favorite-free-medical-apps-part-1/](http://www.imedicalapps.com/2011/06/hidden-costs-favorite-free-medical-apps-part-1/) . Overall, it’s not my favourite business model, but people have to understand that putting all that information together costs a lot of money and they run a business. This tweet from @isaiah sums it: worth saying again: either you pay for a service, or it’s selling you. there really isn’t a third option.
+There are two better known players in that field. Epocrates and Micromedex. There are many others, but I’ve never seen anyone use them. I’m personally not a huge fan of either as their user interfaces are lacking, but I tend to gravitate back to Epocrates. Epocrates is technically free and Micromedex just recently started charging $2.99 for the app. Both apps sell some of your information such as specialty or browsing history to pharmas which is something people need to be aware of. 
+
+[Hidden Costs Favourite Free Medical Apps](http://www.imedicalapps.com/2011/06/hidden-costs-favorite-free-medical-apps-part-1/)
+
+Overall, it’s not my favourite business model, but people have to understand that putting all that information together costs a lot of money and they run a business. This tweet: 
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">worth saying again: either you pay for a service, or it&#39;s selling you. there really isn&#39;t a third option.</p>&mdash; isaiah (@isaiah) <a href="https://twitter.com/isaiah/status/515258277681061888">September 25, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I recommend downloading both and deciding which one you prefer. $2.99 for Micromedex is not a lot compared to that hard cover copy of Harrison’s you’re using as a doorstop.
 
@@ -57,7 +65,7 @@ Those apps will allow you to stay updated on the latest literature. They essenti
 
 Read is more focused on papers. DocWise also connects to medical news source. Each have interesting features and are rapidly evolving. They’re both free so I recommend you them up and play around with them.
 
-Here’s a nice blog article comparing the two [http://medicaleconomics.modernmedicine.com/medical-economics/news/user-defined-tags/medical-journals/docwise-vs-read-qxmd-which-medical-journal](http://medicaleconomics.modernmedicine.com/medical-economics/news/user-defined-tags/medical-journals/docwise-vs-read-qxmd-which-medical-journal)
+Here’s a [nice blog article comparing the two](http://medicaleconomics.modernmedicine.com/medical-economics/news/user-defined-tags/medical-journals/docwise-vs-read-qxmd-which-medical-journal)
 
 ## Siri, reminder, task lists…
 
