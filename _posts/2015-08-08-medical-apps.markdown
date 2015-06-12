@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Medical apps for starting residency (iOS)”
+title:  "Medical apps for starting residency (iOS)"
 date:   2015-08-08 21:15:03
 favorite: 1
 ---

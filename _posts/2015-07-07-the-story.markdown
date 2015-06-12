@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “My first night on call”
+title:  "My first night on call"
 date:   2015-07-07 21:15:03
 favorite: 1
 ---

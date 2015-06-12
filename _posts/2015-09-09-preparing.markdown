@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “First night on call: how to prepare”
+title:  "First night on call: how to prepare"
 date:   2015-09-09 21:15:03
 favorite: 1
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Staying healthy while on call”
+title:  "Staying healthy while on call"
 date:   2015-10-10 21:15:03
 favorite: 1
 ---
