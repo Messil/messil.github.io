@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “The story”
+title:  “My first night on call”
 date:   2015-07-07 21:15:03
 favorite: 1
 ---
@@ -24,7 +24,7 @@ Second block: general internal medicine. A few weeks prior I had received the ca
 
 I had only four patients on my list (the seniors were very nice to us; they would take their own patients (!)). My third patient was admitted for hematuria and multiple comorbidities. I got a call from his nurse: his potassium was 2.8. I thought to myself “this is quite low… I know I can’t replace K+ “too quickly”… But how quick is too quick? Is 2.8 reasonable for PO replacement?? Should I get an EKG??? Is MY patient ok? Is he gonna DIE??
 
-![Alt text](/images/the-story/story1.png “Optional title”)
+![Alt text](/images/the-story/story1.png)
 ** screenshot of hypokalemia, “evaluation” section **
 
 He was fine, laying in his bed, his two way Foley doing its job. It’s been some time since I last wrote an order for K-dur, but I thought to myself “but I’d like something faster. I sure don’t want MY patient to have an arrhythmia because I didn’t replace his K+ fast enough.” and then the inevitable “Damn, I can’t even replace potassium without freaking out! How am I gonna survive my first night on call! Oh well, we’ll see on Saturday!”
@@ -35,7 +35,7 @@ After I finally got that EKG, I realised I didn’t remember the features of hyp
 
 The EKG was fine — no ST depression, prolonged QT… The patient’s K+ renormalised. Everyone was happy except my self pride
 
-![Alt text](/images/the-story/story1.png “Optional title”)
+![Alt text](/images/the-story/story1.png)
 ** screenshot of hypokalemia in the ECG section **
 
 The next morning I went to sign in rounds with @… Always interesting cases and free coffee. A few minutes later, I walk by one of the nursing station to see on the white board “Tonight for team A, B, C: Dr Plourde”. I thought to myself “Interesting! Another Plourde in the hospital, also on internal medicine!”. Then I had a look at the pager number below the name. It was mine.
@@ -64,7 +64,7 @@ Poor Mrs Smith. She was an older lady. I don’t remember her age, but I remembe
 
 It turns out Mrs Smith had a lot of Ventolin that day. It took me a while to figure that one out.
 
-![Alt text](/images/the-story/story1.png “Optional title”)
+![Alt text](/images/the-story/story1.png)
 ** screenshot of dyspnea —> management —> Bronchospasm **
 
 My first night on called went relatively smoothly. Didn’t sleep much, but it’s part of the game I guess.
@@ -83,7 +83,7 @@ I knew the naloxone wouldn’t reverse her for too long and that she would have 
 
 After a quick assessment, I went back to the nursing station to write a quick note. A few seconds later, I heard Mrs Doyle screaming from her room. She was in atrocious pain. I knew naloxone is a non-competitive opioid receptor antagonist, meaning that you can’t displace it from the receptor by giving more opioids. You just have to wait. It was horrible. I called my senior and we tried everything we could. After 30 minutes of screaming, she settled. We spent a quite a lot of time that evening titrating the *diluted* naloxone for Mrs Doyle. I thought about what happened that night over and over again. We learn by doing mistakes. I learned a lot that evening.
 
-![Alt text](/images/the-story/story1.png “Optional title”)
+![Alt text](/images/the-story/story1.png)
 ** screenshot of Pain —> Management —> bottom: “when administering high dose…”
 
 ### Pain crisis
@@ -92,7 +92,7 @@ Towards the end of my first year I was again doing general internal medicine. I 
 
 By that time, I had already dealt with a few pain management issues and I knew how to approach the problem. A few minutes after 10 mg IV morphine the patient was feeling much better. That gave us enough time to re-evaluate her pain medication and order the investigations to try to figure out the reason for the sudden pain crisis (pathological spine fracture - no spinal cord compromise).
 
-![Alt text](/images/the-story/story1.png “Optional title”)
+![Alt text](/images/the-story/story1.png)
 ** screenshot of Pain —> Management —> bottom: “Crisis…”
 
 I thought to myself: “That medical student is almost done her training and she’s a “good one” (we all know what that means) and she wasn’t able to handle that. Granted, it wasn’t an easy situation with the family around on top of everything, but something needs to be written to help us in those first few months of practice”.
