@@ -25,4 +25,4 @@ facebook_share_app_id: "105031042867355"
 markdown: kramdown
 
 #output settings
-permalink: none
+permalink: /:title

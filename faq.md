@@ -2,6 +2,7 @@
 layout: page
 add_email : 1
 title : "Frequently Asked Questions"
+permalink: "/faq/"
 ---
 
 ### WHO IS THIS APP DESIGNED FOR? ###

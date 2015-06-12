@@ -3,9 +3,9 @@ layout: default_empty
 title: Home page
 ---
         <header class="clearfix home-header" id="header">
-            <a href="#" class="logo"></a>
+            <a href="/" class="logo"></a>
             <div class="visible-xs pull-right nav-btn">
-                <a href="#">
+                <a href="/">
 
                 </a>
             </div>
@@ -21,7 +21,7 @@ title: Home page
                         The ultimate application built to help you survive your first
                         nights on call
                     </p>
-                    <a href="{{ 'promo.html' | prepend: site.baseurl }}" class="btn hidden-xs">Browse features</a>
+                    <a href="{{ 'promo/' | prepend: site.baseurl }}" class="btn hidden-xs">Browse features</a>
                 </div>
                 <a class="app-icon"></a>
                 <div class="get-in-store">
@@ -30,8 +30,8 @@ title: Home page
                 </div>
                 <h3>Available on iPhone and iPad.</h3>
                 <img class="devices hidden-xs" src="images/home-devices-small.png" alt=""/><br/>
-                <a href="{{ '/promo.html' | prepend: site.baseurl }}" class="btn btn-xs">Browse features</a>
-                <a href="{{ '/faq.html' | prepend: site.baseurl }}" class="to-faq hidden-xs">
+                <a href="{{ '/promo/' | prepend: site.baseurl }}" class="btn btn-xs">Browse features</a>
+                <a href="{{ '/faq/' | prepend: site.baseurl }}" class="to-faq hidden-xs">
                     FAQ and Support
                 </a>
             </div>
@@ -45,7 +45,7 @@ title: Home page
                         Created to help junior residents/interns on their first nights
                         on call.
                     </p>
-                    <a href="{{ 'blog.html' | prepend: site.baseurl }}" class="btn">View all posts</a>
+                    <a href="{{ 'blog/' | prepend: site.baseurl }}" class="btn">View all posts</a>
                 </div>
                 <div class="stories">
                     <p>Top stories</p>
@@ -69,6 +69,6 @@ title: Home page
             <a class="to-store app-store-xs" href="{{ site.appstore_url }}"></a>
             <a class="to-store google-play-xs" href="{{ site.google_play_url }}"></a>
             <div class="to-faq-xs">
-                <a href="{{ 'faq.html' | prepend: site.baseurl }}">FAQ and Support</a>
+                <a href="{{ 'faq/' | prepend: site.baseurl }}">FAQ and Support</a>
             </div>
         </footer>
