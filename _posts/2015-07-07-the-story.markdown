@@ -1,0 +1,102 @@
+---
+layout: post
+title:  “The story”
+date:   2015-07-07 21:15:03
+favorite: 1
+---
+I started working on MD on Call at the end of my first year of residency while I was still fresh from the steep learning curve of that demanding year. During that year, I had struggled with many little things that I never thought would be an issue. How do you replace calcium? At what point do you ask for an ECG in a patient with hypokalemia? “Can you come and pronounce patient in room 1004?” — How am I suppose to do that?? I bought an “On Call” book, but it wasn’t “to the point” enough. I don’t want to read a book at 2AM. I just want to get things done.
+
+I also noticed that more senior resident often create a similar guide, which they photocopy and distribute to their friends. Those guides are often difficult to get a hold of and they tend to include many copyrighted material, meaning that they can’t be widely distributed. I wanted to create a better tool, and have it available to as many junior docs as possible.
+
+Benoit, a childhood friend who already had a few apps on the App Store, offered to partner with me to build an iPhone app with that material. This was the beginning of a great working relationship.
+
+Many people helped me get version 1 on the way and I’m grateful to this day that they contributed to my little project. Shortly after launch, the app was featured by Apple on the main page of the App Store and by iMedicalApps.com, the respected medical app review site.
+
+More than 25 000 people around the world now trust MD on Call and I routinely get great feedback from doctors around the world. It’s amazing. 
+
+## My first night on call — the story
+
+MD on Call was created to help junior residents / interns on their first nights on call. It’s designed to provide you with just the right amount of medical information while allowing you to stay efficient so you can go and assess the next patient on your list. Here’s the story of why I created it.
+
+Second block: general internal medicine. A few weeks prior I had received the call schedule for that block. I was on for the first Saturday, covering for three teams. First day, I realised I hadn’t done “real medicine” in more than 6 months! My last electives of medical school were psych, some rad one and studying, then vacations… 
+
+### Hypokalemia
+
+I had only four patients on my list (the seniors were very nice to us; they would take their own patients (!)). My third patient was admitted for hematuria and multiple comorbidities. I got a call from his nurse: his potassium was 2.8. I thought to myself “this is quite low… I know I can’t replace K+ “too quickly”… But how quick is too quick? Is 2.8 reasonable for PO replacement?? Should I get an EKG??? Is MY patient ok? Is he gonna DIE??
+
+![Alt text](/images/the-story/story1.png “Optional title”)
+** screenshot of hypokalemia, “evaluation” section **
+
+He was fine, laying in his bed, his two way Foley doing its job. It’s been some time since I last wrote an order for K-dur, but I thought to myself “but I’d like something faster. I sure don’t want MY patient to have an arrhythmia because I didn’t replace his K+ fast enough.” and then the inevitable “Damn, I can’t even replace potassium without freaking out! How am I gonna survive my first night on call! Oh well, we’ll see on Saturday!”
+
+I decided to do an EKG “just to check”. I order it (paper chart) and flagged the order as I was instructed to do. Two minute later I get a call from the unit clerk: “The EKG tech is gone; it’s after four. You have to do it yourself” MYSELF?? I have to do an EKG? How do I set up the leads? I remember seeing a quick schematic when I was learning about EKGs, but it’s been a few years. It was the first time I worked in an hospital without 24h access to an EKG tech. Oh well; Dr Google to the rescue!
+
+After I finally got that EKG, I realised I didn’t remember the features of hypokalemia on EKG. I mean, I remembered a few, like prolonged QT, but not the fine details. I remembered it for the exam, but it was quickly out of my mind. At that time, the hospital didn’t have access to UpToDate, so I had to ask another resident to show me the hypokalemia page. Half an hour of reading later, I had my answer. I felt stupid it took me so long to find that piece of information. I would have been able to find it within 2 minutes in my book, but it was on my desk, at home.
+
+The EKG was fine — no ST depression, prolonged QT… The patient’s K+ renormalised. Everyone was happy except my self pride
+
+![Alt text](/images/the-story/story1.png “Optional title”)
+** screenshot of hypokalemia in the ECG section **
+
+The next morning I went to sign in rounds with @… Always interesting cases and free coffee. A few minutes later, I walk by one of the nursing station to see on the white board “Tonight for team A, B, C: Dr Plourde”. I thought to myself “Interesting! Another Plourde in the hospital, also on internal medicine!”. Then I had a look at the pager number below the name. It was mine.
+
+Surprise! It’s Wednesday. I thought my first night on call was going to be that Saturday. Panic.
+
+My senior was kind enough to cover me while I walked home to get my glasses and toothbrush. This was going to be a long night.
+
+### Patient shaking (??)
+
+5:05 PM: first call. Nurse: “Hi it’s Linda, Mrs Smith’s nurse from Davies 4 ICU”.
+
+In my head: “No one ever told me I was covering the ICU!”
+
+Me: “Hi! What can I help you with?”
+
+Nurse: “Mrs Smith is shaking like I’ve never seen anyone shake. She says she’s ok though, and her vitals are stable”
+
+Me: “So it’s not a seizure?”
+
+Nurse: “No, it really doesn’t look like a seizure, but it’s weird”
+
+Me: “Ok, I’ll go have a look”
+
+Poor Mrs Smith. She was an older lady. I don’t remember her age, but I remember her face like it was yesterday. She was wearing the super comfortable bi-pap mask, he cheeks puffing with the flow of the machine, shaking like you wouldn’t believe. I asked her if she was ok. She says “Yes, I’m fine” with a big smile, her voice muffled by the large mask. Her O2 sat was fine, she was fine. I sat down to have a look at her chart when my pager went off. I have a quick look at the pager and it goes off again. This was going to be a long night.
+
+It turns out Mrs Smith had a lot of Ventolin that day. It took me a while to figure that one out.
+
+![Alt text](/images/the-story/story1.png “Optional title”)
+** screenshot of dyspnea —> management —> Bronchospasm **
+
+My first night on called went relatively smoothly. Didn’t sleep much, but it’s part of the game I guess.
+
+### Reversing opioids
+
+Fourth night on call I get a call because a patient is bradypneic at around 6 breaths per minute, O2 sat in the low 80s. Patient is receiving high dose opioids for chronic pain and the day team recently increased her hydromorphone. Patient was unarousable. I knew I had to be extra careful with naloxone, so I thought to myself “I’ll give the smallest dose and wait a few minutes. Apparently this thing works fast. We’ll see”. Well it turns out that the smallest dose recommended by the manufacturer is about 10x as much as experienced physicians use in cases like that. Sure enough Mrs Doyle woke up a few seconds later. I said to her: 
+
+“Hi Sir! How are you doing?”
+
+“Did you just called me sir?” She said, amused.
+
+In my defence, Mrs Doyle had billet BK amputations, was obese, diabetic and on chronic prednisone in such way that her beard (ahem cushioned features) would hide any womanly features.
+
+I knew the naloxone wouldn’t reverse her for too long and that she would have to be monitored to some extent, but at least now she was awake with O2 sats in the 90s.
+
+After a quick assessment, I went back to the nursing station to write a quick note. A few seconds later, I heard Mrs Doyle screaming from her room. She was in atrocious pain. I knew naloxone is a non-competitive opioid receptor antagonist, meaning that you can’t displace it from the receptor by giving more opioids. You just have to wait. It was horrible. I called my senior and we tried everything we could. After 30 minutes of screaming, she settled. We spent a quite a lot of time that evening titrating the *diluted* naloxone for Mrs Doyle. I thought about what happened that night over and over again. We learn by doing mistakes. I learned a lot that evening.
+
+![Alt text](/images/the-story/story1.png “Optional title”)
+** screenshot of Pain —> Management —> bottom: “when administering high dose…”
+
+### Pain crisis
+
+Towards the end of my first year I was again doing general internal medicine. I was post call and it was 12:45 PM the next day. I remember because I was hungry and tired and I needed a shower. That was before newer work hour restrictions. One of our team’s fourth year medical student was rounding on a younger woman with metastatic breast cancer admitted for pain. The patient was in a pain crisis at that point with her teenage daughter and husband watching as the scene unfold. That poor medical student was frightened, understandably. She knew she wanted to give some IV opioids, but which one? How much?
+
+By that time, I had already dealt with a few pain management issues and I knew how to approach the problem. A few minutes after 10 mg IV morphine the patient was feeling much better. That gave us enough time to re-evaluate her pain medication and order the investigations to try to figure out the reason for the sudden pain crisis (pathological spine fracture - no spinal cord compromise).
+
+![Alt text](/images/the-story/story1.png “Optional title”)
+** screenshot of Pain —> Management —> bottom: “Crisis…”
+
+I thought to myself: “That medical student is almost done her training and she’s a “good one” (we all know what that means) and she wasn’t able to handle that. Granted, it wasn’t an easy situation with the family around on top of everything, but something needs to be written to help us in those first few months of practice”.
+
+After that year, I started writing what would become MD on Call. A lot of friends and colleagues helped me get the content just right. Now that MD on Call has reached version 4, its ongoing success keeps reminding me of the importance of helping junior docs go through this difficult period in their training. 
+
+I hope you’ll enjoy using the app; especially at 3:15 AM ;-)
