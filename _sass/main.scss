@@ -357,6 +357,7 @@ header {
     }
     .markdown
     {
+      margin-top:10px;
       font-weight: 300;
     }
 }
@@ -692,7 +693,7 @@ header {
         float: left;
     }
     & .aut-photo {
-        img {          
+        img {
           height: 90px;
           width: 90px;
           border-radius: 50%;
@@ -1278,6 +1279,7 @@ header {
         }
         & .aut-photo {
             margin: 32px auto 16px;
+            text-align: center;
         }
         & .info {
             padding: 0;

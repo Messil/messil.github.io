@@ -26,3 +26,4 @@ markdown: kramdown
 
 #output settings
 permalink: /:title
+excerpt_separator: <!--more-->

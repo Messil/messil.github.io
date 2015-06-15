@@ -6,7 +6,7 @@ favorite: 1
 ---
 
 Every once in a while, we must be reminded of what exactly is health. As you probably know by now, health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
-
+<!--more-->
 (WHO definition). As a resident, your job is to make people healthy. Unfortunately, because of many confounding factors, residency can be a very unhealthy part of a physician’s life. We must be careful to not let it get out of hand.
 
 ## Eating
@@ -38,7 +38,7 @@ The next day, I always tried to get a few hours of sleep, but I would put my ala
 
 ## Social
 
-Having a social life during residency can be a foreign concept for many, but it’s important! When a group of resident organise an evening out, go, even if you’d rather stay home and watch TV. On top of clearing your mind, you will get to know your colleagues differently. This special rapport will carry on in the hospital and will make your job easier as well. Win-win situation. 
+Having a social life during residency can be a foreign concept for many, but it’s important! When a group of resident organise an evening out, go, even if you’d rather stay home and watch TV. On top of clearing your mind, you will get to know your colleagues differently. This special rapport will carry on in the hospital and will make your job easier as well. Win-win situation.
 
 ## Mind
 
