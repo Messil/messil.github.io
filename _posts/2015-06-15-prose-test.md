@@ -1,7 +1,10 @@
 ---
-published: false
+layout: post
+published: true
 favorite: "0"
+title: Prose test
 ---
+
 
 ## Prose test
 
