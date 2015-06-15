@@ -64,12 +64,21 @@ body {
     dl {
         margin-top: 0;
         margin-bottom: 1rem;
+        display: block;
+  list-style-type: decimal;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  -webkit-padding-start: 40px;
     }
     dt {
         font-weight: bold;
     }
     dd {
         margin-bottom: .5rem;
+        display: block;
+        -webkit-margin-start: 40px;
     }
     /* Misc */
     
