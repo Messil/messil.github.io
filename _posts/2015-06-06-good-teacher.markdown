@@ -2,7 +2,7 @@
 layout: post
 title:  "6 tips for being a good teacher"
 date:   2015-06-06 21:15:03
-favorite: 1
+favorite: 0
 ---
 Teaching is part of a resident’s role. It’s also part of a practicing physician’s role — even those not working in academic centres. Unfortunately, it’s a topic very often overlooked in medical school. All of a sudden, you’re expected to teach (as well as take care of a long list of patients, read and write papers, live a healthy, balanced life… anyways…). Here’s a few tips to get you going.
 
