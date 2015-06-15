@@ -5,7 +5,7 @@ date:   2015-03-03 21:15:03
 favorite: 1
 ---
 
-It’s not unusual when on call to see a patient, write an order and quickly move on to the next pressing issue, forgetting to write a note in the patient’s chart. I really mean “forget”. During daytime, it’s automatic: you see a patient you write a note. Nights are different. It’s hard to describe, but the atmosphere is different. There’s fewer people running around, it’s quieter, darker… And you’re busy. Very busy. So it’s easier to forget to write a note.
+It’s not unusual when on call to see a patient, write an order and quickly move on to the next pressing issue, forgetting to write a note in the patient’s chart.<!--more--> I really mean “forget”. During daytime, it’s automatic: you see a patient you write a note. Nights are different. It’s hard to describe, but the atmosphere is different. There’s fewer people running around, it’s quieter, darker… And you’re busy. Very busy. So it’s easier to forget to write a note.
 
 Anyhow, residents must be careful not to forget to document things as they happen. It’s not only common courtesy to your colleagues and allied health care professionals: it’s the law.
 

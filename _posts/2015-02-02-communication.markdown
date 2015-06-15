@@ -5,7 +5,7 @@ date:   2015-02-02 21:15:03
 favorite: 0
 ---
 
-Communication is one of the most under appreciated aspect of medicine. We need to communicate with lots of people with different knowledge and background. It’s way easier said than done.
+Communication is one of the most under appreciated aspect of medicine. We need to communicate with lots of people with different knowledge and background. It’s way easier said than done.<!--more-->
 
 ## With the healthcare professionals
 

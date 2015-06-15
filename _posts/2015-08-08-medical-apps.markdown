@@ -7,6 +7,8 @@ favorite: 0
 
 Short intro
 
+<!--more-->
+
 ## MedCalc
 
 There are many medical calculators on the Appstore. My personal favourite is MedCalc and it’s the one we’ve integrated with our apps. Re-written from the ground up in 2014, it was clearly designed by physicians for physicians. Attention to details and good support with regular updates is the hallmark of the app. On top of that, formulas are clearly referenced with links to Read by QxMD so you can… hum hum… freshen up on the different clinical scores (so you look like a champ during rounds!)

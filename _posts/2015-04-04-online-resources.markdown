@@ -4,7 +4,7 @@ title:  "Starting residency: some free online resources"
 date:   2015-04-04 21:15:03
 favorite: 1
 ---
-MD on Call and Lanthier are good tools to get you going, but residency is not just medical; it’s also everything else around the medicine. Learning, teaching, preparing for your own practice… Here’s a list of resources I came across that may be of interest to fans of our apps.
+MD on Call and Lanthier are good tools to get you going, but residency is not just medical; it’s also everything else around the medicine. Learning, teaching, preparing for your own practice… Here’s a list of resources I came across that may be of interest to fans of our apps.<!--more-->
 
 [http://www.studentdoctor.net/](http://www.studentdoctor.net/)
 No need for introduction. This site was around before I started medical school and was already popular back then. Lots of helpful advice and an active forum.

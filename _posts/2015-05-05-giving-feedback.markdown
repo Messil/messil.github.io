@@ -4,7 +4,7 @@ title:  "Giving feedback"
 date:   2015-05-05 21:15:03
 favorite: 1
 ---
-As with teaching, giving constructive feedback is an important skill to gain. Here’s a few tips to make it easier. As a bonus, it’s an acronym. We all like acronyms!
+As with teaching, giving constructive feedback is an important skill to gain. Here’s a few tips to make it easier. As a bonus, it’s an acronym. We all like acronyms!<!--more-->
 
 ## Frequent.
 
