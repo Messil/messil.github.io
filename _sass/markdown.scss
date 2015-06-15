@@ -12,8 +12,8 @@ body {
         color: #3b3b3b;
         text-rendering: optimizeLegibility;
     }
-
-    h1, h2 {
+    h1,
+    h2 {
         text-align: left;
         margin-top: 2rem;
         font-size: 1.8rem;
@@ -54,23 +54,18 @@ body {
         color: #303030;
     }
     /* Lists */
-    
-    ul,
-    ol {
-        list-style-position: inside;
-    }
     ul,
     ol,
     dl {
         margin-top: 0;
         margin-bottom: 1rem;
         display: block;
-  list-style-type: decimal;
-  -webkit-margin-before: 1em;
-  -webkit-margin-after: 1em;
-  -webkit-margin-start: 0px;
-  -webkit-margin-end: 0px;
-  -webkit-padding-start: 40px;
+        list-style-type: decimal;
+        -webkit-margin-before: 1em;
+        -webkit-margin-after: 1em;
+        -webkit-margin-start: 0px;
+        -webkit-margin-end: 0px;
+        -webkit-padding-start: 40px;
     }
     dt {
         font-weight: bold;
