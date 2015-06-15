@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 favorite: "0"
 title: Prose test
 ---
