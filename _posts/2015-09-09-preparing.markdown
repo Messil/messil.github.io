@@ -5,7 +5,7 @@ date:   2015-09-09 21:15:03
 favorite: 1
 ---
 
-Hopefully, unlike me *link at the “story”*, you’ll have time to prepare for your first night on call. It can be so stressful that many forget to bring some essentials with them. Here’s a list on what to bring with you.
+Hopefully, unlike me *[link at the story](http://messil.github.io/the-story/)*, you’ll have time to prepare for your first night on call. It can be so stressful that many forget to bring some essentials with them. Here’s a list on what to bring with you.
 
 - Toothbrush, toothpaste. Self explanatory.
 - Glasses, contact lens case / cleaner. Your eyes will get dry, I guarantee it. Consider artificial tears.

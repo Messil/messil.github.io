@@ -4,7 +4,9 @@ title:  "My first night on call"
 date:   2015-07-07 21:15:03
 favorite: 1
 ---
-I started working on MD on Call at the end of my first year of residency while I was still fresh from the steep learning curve of that demanding year. During that year, I had struggled with many little things that I never thought would be an issue. How do you replace calcium? At what point do you ask for an ECG in a patient with hypokalemia? “Can you come and pronounce patient in room 1004?” — How am I suppose to do that?? I bought an “On Call” book, but it wasn’t “to the point” enough. I don’t want to read a book at 2AM. I just want to get things done.
+I started working on MD on Call at the end of my first year of residency while I was still fresh from the steep learning curve of that demanding year. During that year, I had struggled with many little things that I never thought would be an issue. 
+
+How do you replace calcium? At what point do you ask for an ECG in a patient with hypokalemia? “Can you come and pronounce patient in room 1004?” — How am I suppose to do that?? I bought an “On Call” book, but it wasn’t “to the point” enough. I don’t want to read a book at 2AM. I just want to get things done.
 
 I also noticed that more senior resident often create a similar guide, which they photocopy and distribute to their friends. Those guides are often difficult to get a hold of and they tend to include many copyrighted material, meaning that they can’t be widely distributed. I wanted to create a better tool, and have it available to as many junior docs as possible.
 

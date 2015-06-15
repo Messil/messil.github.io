@@ -5,7 +5,9 @@ date:   2015-10-10 21:15:03
 favorite: 1
 ---
 
-Every once in a while, we must be reminded of what exactly is health. As you probably know by now, health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity. (WHO definition). As a resident, your job is to make people healthy. Unfortunately, because of many confounding factors, residency can be a very unhealthy part of a physician’s life. We must be careful to not let it get out of hand.
+Every once in a while, we must be reminded of what exactly is health. As you probably know by now, health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+
+(WHO definition). As a resident, your job is to make people healthy. Unfortunately, because of many confounding factors, residency can be a very unhealthy part of a physician’s life. We must be careful to not let it get out of hand.
 
 ## Eating
 
