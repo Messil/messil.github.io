@@ -58,6 +58,6 @@ prose:
           placeholder: ""
           options:
             - name: "Show"
-              value: 0
-            - name: "Hide"
               value: 1
+            - name: "Hide"
+              value: 0
