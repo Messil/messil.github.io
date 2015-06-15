@@ -40,6 +40,7 @@ body {
     a {
         color: #F94045;
         text-decoration: none;
+        word-break: break-all;
     }
     a strong {
         color: inherit;
@@ -185,7 +186,7 @@ body {
     img {
         display: block;
         max-width: 100%;
-        margin: 0 0 1rem;
+        margin: 0 auto 1rem;
         border-radius: 5px;
     }
     /* Tables */

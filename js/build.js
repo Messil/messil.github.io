@@ -37,16 +37,6 @@ $(document).ready(function () {
             $('.nav-btn a').removeClass('open');
         }
     });
-    if (window.devicePixelRatio > 1) {
-        var images = $('img');
-
-        images.each(function (i) {
-            var highres = $(this).data('retina');
-            if (!highres)
-                return true;
-            $(this).attr('src', highres);
-        });
-    }
     $('.carousel').carousel();
     if ($('#mob-apps').length) {
         $( window ).resize(function() {
@@ -63,8 +53,10 @@ $(document).ready(function () {
         }).trigger('resize');
     }
     if (window.devicePixelRatio > 1) {
-
+        var images = $('img');
         images.each(function(i) {
+           if ($(this).closest('.markdown'))
+            return true;
            var filename = $(this).attr('src').split('.'),
                extension = filename.pop();
            filename = filename.pop();
