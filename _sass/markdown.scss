@@ -54,6 +54,11 @@ body {
         color: #303030;
     }
     /* Lists */
+    
+    ul,
+    ol {
+//        list-style-position: inside;
+    }
     ul,
     ol,
     dl {
