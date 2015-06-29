@@ -71,7 +71,7 @@ However, I found it relatively vague. I personally prefer this version:
 - Background clinical information (“He’s a 56 y.o. diabetic with known CAD…”). Add necessary psychosocial information as well (“He doesn’t want you to discuss his care if family members are around…”)
 - Course of the acute illness (“He’s been admitted for renal failure, acute on chronic. His creat has been trending down but still in the 300 range.”)
 - Uncertainty (“He was slightly hypertensive last night but his diuretics were held because of his renal failure. However, he rarely sees doctors, so he may have undiagnosed essential hypertension.”)
-- Anticipation of events (“If his PB is high again tonight, make sure he’s received his first dose of metoprolol. It it’s still high, consider a nitropatch; he’d been on it in the past.”)
+- Anticipation of events (“If his BP is high again tonight, make sure he’s received his first dose of metoprolol. It it’s still high, consider a nitropatch; he’d been on it in the past.”)
 
 I recommend trying your best to transfer the information Twitter style (i.e. 140 characters or less). This forces you be more efficient and choose your words carefully. At the end of the list, you (and the other resident) will be glad you did.
 
