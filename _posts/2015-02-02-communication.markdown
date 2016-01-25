@@ -35,13 +35,13 @@ When asking for a consult, ALWAYS make sure you know the basics about the patien
 
 Ultimately, know why you’re calling — funny, but as you get more senior, you’ll get calls that go like this:
 
->–ID? yeah, can you come and see this patient? He has an abscess.
+>–ID? yeah, can you come and see this patient? He has an abscess.  
 >–Ok… How old is the patient?
 
 And then you hear pages flipping…
 
->–hum… 40ish?
->–ok; what was he admitted for?
+>–hum… 40ish?  
+>–ok; what was he admitted for?  
 >-Well, I don’t really know the patient… I was asked by my senior to call you for his abscess…
 
 You do not want to be that person.
@@ -74,10 +74,10 @@ However, I found it relatively vague. I personally prefer this version:
 
 I recommend trying your best to transfer the information Twitter style (i.e. 140 characters or less). This forces you be more efficient and choose your words carefully. At the end of the list, you and the other resident will be glad you did.
 
-Ideally, the same process should take place the next morning. From experience, I have been less consistent, but I tried to do it. Even if [I wrote nice notes during the night](documentation), I believe every little bit of information helps to make the flow of information as smooth as possible.
+Ideally, the same process should take place the next morning. From experience, I have been less consistent, but I tried to do it. Even if [I wrote nice notes during the night](/documentation/), I believe every little bit of information helps to make the flow of information as smooth as possible.
 
 ## References
 
-1. Gawande AA, Zinner MJ, Studdert DM, Brennan TA. Analysis of errors reported by surgeons at three teaching hospitals. Surgery. 2003;133:614–621. doi: 10.1067/msy.2003.169. \[[PubMed]\](http://www.ncbi.nlm.nih.gov/pubmed/12796727)
-2. Gandhi TK, Kachalia A, Thomas EJ, Puopolo AL, Yoon C, Brennan TA, Studdert DM. Missed and delayed diagnoses in the ambulatory setting: a study of closed malpractice claims. Ann Intern Med. 2006;145:488–496. \[[PubMed]\](http://www.ncbi.nlm.nih.gov/pubmed/17015866)
-3. Michael D Cohen, Brian Hilligoss, André Carlos Kajdacsy-Balla Amaral. A handoff is not a telegram: an understanding of the patient is co-constructed. Crit Care. 2012; 16(1): 303. \[[Link]\](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3396216/)
+1. Gawande AA, Zinner MJ, Studdert DM, Brennan TA. Analysis of errors reported by surgeons at three teaching hospitals. Surgery. 2003;133:614–621. doi: 10.1067/msy.2003.169. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/12796727)
+2. Gandhi TK, Kachalia A, Thomas EJ, Puopolo AL, Yoon C, Brennan TA, Studdert DM. Missed and delayed diagnoses in the ambulatory setting: a study of closed malpractice claims. Ann Intern Med. 2006;145:488–496. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/17015866)
+3. Michael D Cohen, Brian Hilligoss, André Carlos Kajdacsy-Balla Amaral. A handoff is not a telegram: an understanding of the patient is co-constructed. Crit Care. 2012; 16(1): 303. [Link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3396216/)
