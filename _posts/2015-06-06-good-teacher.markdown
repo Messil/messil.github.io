@@ -34,8 +34,8 @@ When you’re finished your presentation, try to summarize the topic in one sent
 
 ## More reading
 
-[http://www.myparo.ca/Documents/One_Minute_Preceptor.pdf](http://www.myparo.ca/Documents/One_Minute_Preceptor.pdf)
+[http://www.myparo.ca/Documents/One_Minute_Preceptor.pdf](http://www.myparo.ca/Documents/One_Minute_Preceptor.pdf)  
 One minute preceptor. Teaching is most often seamless, and happens in the hallway or just after you saw a patient.
 
-[http://www.emra.org/uploadedfiles/emra/emra_publications/emra-2013residentaseducator-interactive.pdf](http://www.emra.org/uploadedfiles/emra/emra_publications/emra-2013residentaseducator-interactive.pdf)
+[http://www.emra.org/uploadedfiles/emra/emra_publications/emra-2013residentaseducator-interactive.pdf](http://www.emra.org/uploadedfiles/emra/emra_publications/emra-2013residentaseducator-interactive.pdf)  
 An ebook by EMRA (Emergency Medicine Resident’s Association -- USA)  Is geared more towards emergency medicine, but the principles apply to all specialties.
