@@ -5,15 +5,11 @@ date:   2015-08-08 21:15:03
 favorite: 0
 ---
 
-Short intro
+## [MedCalX](https://itunes.apple.com/ca/app/medcalx-professional-medical/id1041464932?mt=8)
 
-<!--more-->
+There are many medical calculators on the Appstore. My personal favourite is MedCalX and it’s the one we’ve integrated with our apps. Re-written from the ground up in 2014 (with a name change in 2015 -- it used to be called MedCalc), it was clearly designed by physicians for physicians. Attention to details and good support with regular updates is the hallmark of the app. On top of that, formulas are clearly referenced with links to Read by QxMD so you can… hum hum… freshen up on the different clinical scores (so you look like a champ during rounds!)
 
-## MedCalc
-
-There are many medical calculators on the Appstore. My personal favourite is MedCalc and it’s the one we’ve integrated with our apps. Re-written from the ground up in 2014, it was clearly designed by physicians for physicians. Attention to details and good support with regular updates is the hallmark of the app. On top of that, formulas are clearly referenced with links to Read by QxMD so you can… hum hum… freshen up on the different clinical scores (so you look like a champ during rounds!)
-
-I recommend taking a few minutes creating a “favourite” list with the formulas you plan on using frequently. 
+I recommend taking a few minutes creating a “favourite” list with the formulas you plan on using frequently. Don’t forget to “turn on” the integration with MedCalX in MD on Call (in Settings) for a quick access to the formulas discussed in the app!
 
 ## Lanthier
 

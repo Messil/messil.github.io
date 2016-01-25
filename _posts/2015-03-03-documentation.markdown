@@ -26,7 +26,7 @@ Write down
 - Discussion (with patient, family, nurses)
 - Don’t forget to sign your note!
 
-![On Call Documentation](../images/blog/documentation.jpg)
+![On Call Documentation](/images/blog/on-call-documentation.jpg)
 
 Obviously, an on call note tends to be less detailed and shorter than a regular patient note. The goal is to convey the information on the acute issue while staying efficient to allow you to manage your time efficiently (i.e. go back to bed). After signing your note, make a habit of writing a few words on your patient list for handover. You think you will remember, but you won’t.
 
