@@ -36,13 +36,13 @@ When asking for a consult, ALWAYS make sure you know the basics about the patien
 Ultimately, know why you’re calling — funny, but as you get more senior, you’ll get calls that go like this:
 
 > –ID? yeah, can you come and see this patient? He has an abscess.  
-–Ok… How old is the patient?
+> –Ok… How old is the patient?
 
 And then you hear pages flipping…
 
 > –hum… 40ish?  
-–ok; what was he admitted for?  
--Well, I don’t really know the patient… I was asked by my senior to call you for his abscess…
+> –ok; what was he admitted for?  
+> -Well, I don’t really know the patient… I was asked by my senior to call you for his abscess…
 
 You do not want to be that person.
 
