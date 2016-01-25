@@ -2,7 +2,7 @@
 layout: post
 title:  "Staying healthy while on call"
 date:   2015-10-10 21:15:03
-favorite: 1
+favorite: 0
 ---
 
 Every once in a while, we must be reminded of what exactly is health. As you probably know by now, health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
