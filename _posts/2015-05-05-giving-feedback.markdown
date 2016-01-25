@@ -41,4 +41,5 @@ Respect brings respect. You may be in a position of authority, but that’s not 
 
 ### More reading
 
-[http://www.myparo.ca/Documents/Giving_Feedback.pdf](http://www.myparo.ca/Documents/Giving_Feedback.pdf) More info on the above acronym with references.
+[http://www.myparo.ca/Documents/Giving_Feedback.pdf](http://www.myparo.ca/Documents/Giving_Feedback.pdf)
+More info on the above acronym with references.
