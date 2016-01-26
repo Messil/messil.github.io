@@ -16,8 +16,8 @@ The easiest way to facilitate your calls is to be good to the other team members
 - Nurses — Who’s going to help you when the pump starts beeping? When you need that stat IV? When you’re bored and you want to talk to someone who has a life outside the hospital? Pro tip: nurses often have potlucks, and if you’re pleasant enough, you may be able to jump in!
 - Respiratory therapist (RT) — When your patient is gasping for air you’ll enjoy their presence tremendously.
 - Housekeeping staff — granted, you rarely have to deal directly with the housekeeping staff, but be extra nice to them. Without them, you can’t do your job.
-- Pharmacy — I rarely had to deal with the on call pharmacist in person (they tend to be hidden in their pharmacy). I recommend you try to figure out  what kind of pharmacy service your hospital provides after hours.
-- OT / PT — In my part of the world, they have normal  working hours, so I didn’t see them at all at night.
+- Pharmacy — I rarely had to deal with the on call pharmacist in person (they tend to be hidden in their pharmacy). I recommend you try to figure out what kind of pharmacy service your hospital provides after hours.
+- OT / PT — In my part of the world, they have normal working hours, so I didn’t see them at all at night.
 
 It’s not magic. Being nice to people around you, even if you’re tired and freaking out inside, will reward you time and time again. The saying “what goes around comes around” is extremely true in a hospital setting.
 

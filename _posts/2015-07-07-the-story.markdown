@@ -5,7 +5,7 @@ date:   2015-07-07 21:15:03
 favorite: 0
 ---
 
-I started working on MD on Call at the end of my first year of residency while I was still fresh from the steep learning curve of that demanding year. During that year, I had struggled with many little things that I never thought would become an issue.<!--more--> How do you replace calcium? At what point do you ask for an ECG in a patient with hypokalemia? “Can you come and pronounce patient in room 1004?” — How am I supposed to do that??  I bought an “On Call” book, but it wasn’t “to the point”.  I don’t want to read a book at 2AM. I just want to get things done.
+I started working on MD on Call at the end of my first year of residency while I was still fresh from the steep learning curve of that demanding year. During that year, I had struggled with many little things that I never thought would become an issue.<!--more--> How do you replace calcium? At what point do you ask for an ECG in a patient with hypokalemia? “Can you come and pronounce patient in room 1004?” — How am I supposed to do that?? I bought an “On Call” book, but it wasn’t “to the point”. I don’t want to read a book at 2AM. I just want to get things done.
 
 I also noticed that the more senior residents often create a similar guide, which they photocopy and distribute to their friends. Those guides are often difficult to get a hold of and they tend to include copyrighted material, meaning that they can’t be widely distributed. I wanted to create a better tool, and have it available to as many junior docs as possible.
 
@@ -13,13 +13,13 @@ Benoit, a childhood friend who already had a few apps on the App Store, offered 
 
 Many people helped me get Version 1 on the way and I’m grateful to this day that they contributed to my project. Shortly after the launch, the App was featured by Apple on the main page of the App Store and by iMedicalApps.com, the respected medical app review site.
 
-More than 25 000 people around the world now trust MD on Call and I routinely get great feedback from doctors around the world.  It’s amazing.
+More than 25 000 people around the world now trust MD on Call and I routinely get great feedback from doctors around the world. It’s amazing.
 
 ## My first night on call — the story
 
 MD on Call was created to help junior residents / interns on their first nights on call. It’s designed to provide you with just the right amount of medical information while allowing you to stay efficient so you can assess the next patient on your list. Here’s the story of why I created MD on Call.
 
-Second block: General Internal Medicine.  I had received the On Call Schedule for that block. I was on the first Saturday, covering for three teams. The first day on, I realized I hadn’t done “real medicine” in more than 6 months!  My last electives of medical school were Psych, some Rad Onc. and studying, then vacation.
+Second block: General Internal Medicine. I had received the On Call Schedule for that block. I was on the first Saturday, covering for three teams. The first day on, I realized I hadn’t done “real medicine” in more than 6 months! My last electives of medical school were Psych, some Rad Onc. and studying, then vacation.
 
 ### Hypokalemia
 
@@ -27,17 +27,17 @@ I had only four patients on my list (the seniors were very nice to me; they woul
 
 ![Hypokalemia - Evaluation](/images/blog/hypokalemia-evaluation.jpg)
 
-He seemed fine, lying in his bed, his two-way Foley doing its job. It had been some time since I last wrote an order for K-dur, but I thought to myself “but I’d like something faster. I sure don’t want MY patient to have an arrhythmia because I didn’t replace his K+ fast enough.” and then the inevitable “Damn, I can’t even replace potassium without freaking out! How will I  survive my first night on call! Oh well, we’ll see on Saturday!”
+He seemed fine, lying in his bed, his two-way Foley doing its job. It had been some time since I last wrote an order for K-dur, but I thought to myself “but I’d like something faster. I sure don’t want MY patient to have an arrhythmia because I didn’t replace his K+ fast enough.” and then the inevitable “Damn, I can’t even replace potassium without freaking out! How will I survive my first night on call! Oh well, we’ll see on Saturday!”
 
-I decided to do an EKG “just to check”. I ordered it (paper chart) and flagged the order as I was instructed to do. Two minutes later I get a call from the unit clerk: “The EKG tech is gone; it’s after four. You have to do it yourself”  MYSELF?? I have to do an EKG?  How do I set up the leads? I remember seeing a quick schematic when I was learning about EKGs, but it’s been a few years. It was the first time I worked in a hospital without 24h access to an EKG tech. Oh well; Dr Google to the rescue!
+I decided to do an EKG “just to check”. I ordered it (paper chart) and flagged the order as I was instructed to do. Two minutes later I get a call from the unit clerk: “The EKG tech is gone; it’s after four. You have to do it yourself” MYSELF?? I have to do an EKG? How do I set up the leads? I remember seeing a quick schematic when I was learning about EKGs, but it’s been a few years. It was the first time I worked in a hospital without 24h access to an EKG tech. Oh well; Dr Google to the rescue!
 
 After I finally got that EKG, I realized I didn’t remember the features of hypokalemia on an EKG. I mean, I remembered a few, like prolonged QT, but not the fine details. I remembered it for the exam, but it was then quickly out of my mind. At that time, the hospital didn’t have access to UpToDate, so I had to ask another resident to show me the hypokalemia page. Half an hour of reading and I had my answer. I felt stupid that it took me so long to find that piece of information. I would have been able to find it within 2 minutes using my book, but it was on my desk, at home.
 
-The EKG was fine — no ST depression, prolonged QT... The patient’s K+ renormalized. Everyone was happy except me -  my pride was injured!
+The EKG was fine — no ST depression, prolonged QT… The patient’s K+ renormalized. Everyone was happy except me - my pride was injured!
 
 ![Hypokalemia - ECG](/images/blog/hypokalemia-ecg.jpg)
 
-The next morning, I went to sign in rounds at....…  Always interesting cases and free coffee. A few minutes later, I walked by one of the nursing station to see “Tonight for team A, B, C: Dr Plourde” on the whiteboard.  I thought to myself “Interesting! Another Plourde in the hospital, also on internal medicine!” Then I had a look at the pager number below the name. It was mine.
+The next morning, I went to sign in rounds at……. Always interesting cases and free coffee. A few minutes later, I walked by one of the nursing station to see “Tonight for team A, B, C: Dr Plourde” on the whiteboard.  I thought to myself “Interesting! Another Plourde in the hospital, also on internal medicine!” Then I had a look at the pager number below the name. It was mine.
 
 Surprise! It’s Wednesday. I thought my first night on call was going to be Saturday. Panic!!
 
@@ -65,7 +65,7 @@ My first night on call was relatively smooth. Didn’t sleep much, but it’s pa
 
 ### Reversing opioids
 
-Fourth night on call:  I get a call that a patient is bradypneic at around 6 breaths per minute, O2 sat in the low 80s. Patient is receiving high dose opioids for chronic pain and the day team recently increased her hydromorphone. Patient was unarousable. I knew I had to be extra careful with naloxone, so I thought to myself “I’ll give the smallest dose and wait a few minutes. Naloxone is supposed to work fast. We’ll see”. Well it turns out that the smallest dose recommended by the manufacturer is about 10x as much as experienced physicians use in similar cases. Sure enough,  Mrs. Doyle woke up a few seconds later. I said to her:
+Fourth night on call: I get a call that a patient is bradypneic at around 6 breaths per minute, O2 sat in the low 80s. Patient is receiving high dose opioids for chronic pain and the day team recently increased her hydromorphone. Patient was unarousable. I knew I had to be extra careful with naloxone, so I thought to myself “I’ll give the smallest dose and wait a few minutes. Naloxone is supposed to work fast. We’ll see”. Well it turns out that the smallest dose recommended by the manufacturer is about 10x as much as experienced physicians use in similar cases. Sure enough, Mrs. Doyle woke up a few seconds later. I said to her:
 
 > “Hi Sir! How are you doing?”  
 > “Did you just call me sir?" She said, amused.
@@ -90,4 +90,4 @@ I thought to myself: “That medical student is almost finished her training and
 
 After that year, I started writing what would become MD on Call. A lot of friends and colleagues helped me get the content just right. Now that MD on Call has reached Version 4, its ongoing success keeps reminding me of the importance of helping junior docs go through this difficult period of training.
 
-I hope you'll enjoy using the app; especially at 3:15 AM ;-)
+I hope you’ll enjoy using the app; especially at 3:15 AM ;-)

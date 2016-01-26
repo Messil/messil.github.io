@@ -25,7 +25,7 @@ This is just my opinion. I dislike Powerpoint presentations. As a resident, the 
 
 ## Short and sweet
 
-I was sitting in the staff room the other day and the urology staff  walked in and started an hour-long teaching session. That was on a Friday. At 6PM. Come on guys!
+I was sitting in the staff room the other day and the urology staff walked in and started an hour-long teaching session. That was on a Friday. At 6PM. Come on guys!
 Aim for 15 minutes (unless a schedule has been assigned) and keep track of time. Stop when your time limit is over, even if your topic is “super interesting".
 
 ## Summarize
@@ -38,4 +38,4 @@ When you’re finished your presentation, try to summarize the topic in one sent
 One minute preceptor. Teaching is most often seamless, and happens in the hallway or just after you saw a patient.
 
 [http://www.emra.org/uploadedfiles/emra/emra_publications/emra-2013residentaseducator-interactive.pdf](http://www.emra.org/uploadedfiles/emra/emra_publications/emra-2013residentaseducator-interactive.pdf)  
-An ebook by EMRA (Emergency Medicine Resident’s Association -- USA)  Is geared more towards emergency medicine, but the principles apply to all specialties.
+An ebook by EMRA (Emergency Medicine Resident’s Association -- USA) Is geared more towards emergency medicine, but the principles apply to all specialties.
