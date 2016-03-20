@@ -2,7 +2,7 @@
 layout: post
 title:  "Communication"
 date:   2015-02-02 21:15:03
-favorite: 1%
+favorite: 1 %
 ---
 
 Communication is one of the most under-appreciated aspects of medicine. We need to communicate with lots of people with different knowledge and backgrounds. It’s easier said than done.<!--more-->
