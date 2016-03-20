@@ -1,10 +1,8 @@
 ---
 layout: page
-title : "Press Kit"
+title : "Press"
 permalink: "/presskit/"
 ---
-
-### PRESS ###
 
 MD on Call is a medical application (app) targeted at young physicians and medical students. First released in 2009, MD on Call quickly climbed the App Store’s ranking to become one of the most successful medical app. Shortly after, it was featured by Apple on the front page of the Store, a rare occurrence for a medical app.
 
