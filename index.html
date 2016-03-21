@@ -2,73 +2,62 @@
 layout: default_empty
 title: Home page
 ---
-        <header class="clearfix home-header" id="header">
-            <a href="/" class="logo"></a>
-            <div class="visible-xs pull-right nav-btn">
-                <a href="/">
-
-                </a>
-            </div>
-            <div class="mob-nav visible-xs">
-              {% include mobilenav-dropdown.html %}
-            </div>
-        </header>
-        <section class="col-sm-6 col-xs-12 mobile-apps" id="mob-apps">
-            <div id="mobile-inside">
-                <div class="top-block">
-                    <h2>Mobile app</h2>
-                    <p>
-                        The ultimate application written and designed to help you survive your first
-                        nights on call
-                    </p>
-                    <a href="{{ 'promo/' | prepend: site.baseurl }}" class="btn hidden-xs">Browse features</a>
-                </div>
-                <a class="app-icon"></a>
-                <div class="get-in-store">
-                    <a class="app-store" href="{{ site.appstore_url }}"></a>
-                    <a class="google-play" href="{{ site.google_play_url }}"></a>
-                </div>
-                <h3>Available on iPhone and iPad.</h3>
-                <img class="devices hidden-xs" src="images/home-devices-small.png" alt=""/><br/>
-                <a href="{{ '/promo/' | prepend: site.baseurl }}" class="btn btn-xs">Discover the app</a>
-                <a href="{{ '/faq/' | prepend: site.baseurl }}" class="to-faq hidden-xs">
-                    FAQ and Support
-                </a>
-            </div>
-        </section>
-        <div class="clearfix visible-xs"></div>
-        <section class="col-sm-6 col-xs-12 blog" id="to-blog">
-            <div id="blog-inside">
-                <div class="top-block">
-                    <h2>Blog</h2>
-                    <p>
-                        Tips to help junior residents/interns on their first nights
-                        on call.
-                    </p>
-                    <a href="{{ 'blog/' | prepend: site.baseurl }}" class="btn">View all posts</a>
-                </div>
-                <div class="stories">
-                    <p>Top stories</p>
-                    {% assign mainposts = site.posts | where: "favorite", 1 %}
-
-                    {% for post in mainposts | limit:3 %}
-                      <div>
-                        <a href="{{ post.url | prepend: site.baseurl }}">
-                          <h3>{{ post.title }}</h3>
-                          <div class="markdown">
-                            {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
-                          </div>
-                        </a>
-                      </div>
-                    {% endfor %}
-                </div>
-            </div>
-        </section>
-        <div class="clearfix"></div>
-        <footer class="footer-xs visible-xs">
-            <a class="to-store app-store-xs" href="{{ site.appstore_url }}"></a>
-            <a class="to-store google-play-xs" href="{{ site.google_play_url }}"></a>
-            <div class="to-faq-xs">
-                <a href="{{ 'faq/' | prepend: site.baseurl }}">FAQ and Support</a>
-            </div>
-        </footer>
+<header class="clearfix home-header" id="header">
+	<a href="/" class="logo"></a>
+	<div class="visible-xs pull-right nav-btn">
+		<a href="/"></a>
+	</div>
+	<div class="mob-nav visible-xs">
+		{% include mobilenav-dropdown.html %}
+	</div>
+</header>
+<section class="col-sm-6 col-xs-12 mobile-apps" id="mob-apps">
+	<div id="mobile-inside">
+		<div class="top-block">
+			<h2>Mobile app</h2>
+			<p>The ultimate application written and designed to help you survive your first nights on call</p>
+			<a href="{{ 'promo/' | prepend: site.baseurl }}" class="btn hidden-xs">Browse features</a>
+		</div>
+		<a class="app-icon"></a>
+		<div class="get-in-store">
+			<a class="app-store" href="{{ site.appstore_url }}"></a>
+			<a class="google-play" href="{{ site.google_play_url }}"></a>
+		</div>
+		<h3>Available on iPhone and iPad.</h3>
+		<img class="devices hidden-xs" src="images/home-devices-small.png" alt=""/><br/>
+		<a href="{{ '/promo/' | prepend: site.baseurl }}" class="btn btn-xs">Discover the app</a>
+		<a href="{{ '/faq/' | prepend: site.baseurl }}" class="to-faq hidden-xs">FAQ and Support</a>
+	</div>
+</section>
+<div class="clearfix visible-xs"></div>
+<section class="col-sm-6 col-xs-12 blog" id="to-blog">
+	<div id="blog-inside">
+		<div class="top-block">
+			<h2>Blog</h2>
+			<p>Tips to help junior residents/interns on their first nights on call.</p>
+			<a href="{{ 'blog/' | prepend: site.baseurl }}" class="btn">View all posts</a>
+		</div>
+		<div class="stories">
+			<p>Top stories</p>
+			{% assign mainposts = site.posts | where: "favorite", 1 %}
+			{% for post in mainposts | limit:3 %}
+			<div>
+				<a href="{{ post.url | prepend: site.baseurl }}">
+					<h3>{{ post.title }}</h3>
+					<div class="markdown">
+						{{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+					</div>
+				</a>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+</section>
+<div class="clearfix"></div>
+<footer class="footer-xs visible-xs">
+	<a class="to-store app-store-xs" href="{{ site.appstore_url }}"></a>
+	<a class="to-store google-play-xs" href="{{ site.google_play_url }}"></a>
+	<div class="to-faq-xs">
+		<a href="{{ 'faq/' | prepend: site.baseurl }}">FAQ and Support</a>
+	</div>
+</footer>
