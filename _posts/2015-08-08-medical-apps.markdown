@@ -5,9 +5,10 @@ date:   2015-08-08 21:15:03
 favorite: 0
 ---
 
-<!--more-->
 
 Our apps are good, but they don't cover every aspect of a resident's required app collection. Here are my recommended apps for iOS.
+
+<!--more-->
 
 ## [MedCalX](https://itunes.apple.com/ca/app/medcalx-professional-medical/id1041464932?mt=8)
 
