@@ -7,6 +7,8 @@ favorite: 1
 
 <!--more-->
 
+Our apps are good, but they don't cover every aspect of a resident's required app collection. Here are my recommended apps for iOS.
+
 ## [MedCalX](https://itunes.apple.com/ca/app/medcalx-professional-medical/id1041464932?mt=8)
 
 There are many medical calculators on the App Store. My personal favourite is MedCalX and it’s the one we’ve integrated with our apps. Re-written from the ground up in 2014 (with a name change in 2015 -- it used to be called MedCalc), it was clearly designed by physicians for physicians. Attention to details and good support with regular updates is the hallmark of the app. On top of that, formulas are clearly referenced with links to Read by QxMD so you can… hum hum… *freshen up* on the different clinical scores (so you look like a champ during rounds!)
@@ -15,7 +17,7 @@ I recommend taking a few minutes creating a “favourite” list with the formul
 
 ## [Lanthier](https://itunes.apple.com/ca/app/lanthier-practical-guide-to/id701664895?mt=8)
 
-Lanthier - Practical Guide to Internal Medicine is a personal favourite of mine and I’m sure you can spot the similarities with MD on Call. That’s because I’m responsible for the “app” version of that book \*disclaimer\*. For those who are not familiar with Lanthier, it’s an internal medicine pocketbook, very popular in the Francophones in Canada. The English edition has been held back due to distribution issues, but the app format has allowed it to really take off.
+Lanthier - Practical Guide to Internal Medicine is a personal favourite of mine and I’m sure you can spot the similarities with MD on Call. That’s because I’m responsible for the “app” version of that book \*disclaimer\*. For those who are not familiar with Lanthier, it’s an internal medicine pocketbook, very popular in Canada. The English edition has been held back due to distribution issues, but the app format has allowed it to really take off.
 
 I really like the bullet point format of the text. It’s not meant to replace UpToDate — It’s different. More succinct, better adapted for the fast pace of the clinic or the ward.
 

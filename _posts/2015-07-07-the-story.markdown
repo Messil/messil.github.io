@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The story"
+title:  "The Story"
 date:   2015-07-07 21:15:03
 favorite: 1
 ---
@@ -13,13 +13,13 @@ Benoit, a childhood friend who already had a few apps on the App Store, offered 
 
 Many people helped me get Version 1 on the way and I’m grateful to this day that they contributed to my project. Shortly after the launch, the App was featured by Apple on the main page of the App Store and by iMedicalApps.com, the respected medical app review site.
 
-More than 25 000 people around the world now trust MD on Call and I routinely get great feedback from doctors around the world. It’s amazing.
+More than 25 000 people around the world now trust MD on Call and I routinely get great feedback from doctors around the world.
 
 ## My first night on call — the story
 
 MD on Call was created to help junior residents / interns on their first nights on call. It’s designed to provide you with just the right amount of medical information while allowing you to stay efficient so you can assess the next patient on your list. Here’s the story of why I created MD on Call.
 
-Second block: General Internal Medicine. I had received the On Call Schedule for that block. I was on the first Saturday, covering for three teams. The first day on, I realized I hadn’t done “real medicine” in more than 6 months! My last electives of medical school were Psych, some Rad Onc. and studying, then vacation.
+Second block: general internal medicine. I had received the call schedule for that block. I was on the first Saturday, covering for three teams. The first day on, I realized I hadn’t done “real medicine” in more than 6 months! My last electives of medical school were Psych, some Rad Onc. and studying, then vacation.
 
 ### Hypokalemia
 
@@ -37,7 +37,7 @@ The EKG was fine — no ST depression, prolonged QT… The patient’s K+ renorm
 
 ![Hypokalemia - ECG](/images/blog/hypokalemia-ecg.jpg)
 
-The next morning, I went to sign in rounds at……. Always interesting cases and free coffee. A few minutes later, I walked by one of the nursing station to see “Tonight for team A, B, C: Dr Plourde” on the whiteboard.  I thought to myself “Interesting! Another Plourde in the hospital, also on internal medicine!” Then I had a look at the pager number below the name. It was mine.
+The next morning, I went to sign in rounds at 7:45 as usual. Interesting cases and free coffee. A few minutes later, I walked by one of the nursing station to see “Tonight for team A, B, C: Dr Plourde” on the whiteboard.  I thought to myself “Interesting! Another Plourde in the hospital, also on internal medicine!” Then I had a look at the pager number below the name. It was mine.
 
 Surprise! It’s Wednesday. I thought my first night on call was going to be Saturday. Panic!!
 
