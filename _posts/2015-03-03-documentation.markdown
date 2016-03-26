@@ -2,7 +2,7 @@
 layout: post
 title:  "Documentation"
 date:   2015-03-03 21:15:03
-favorite: 1
+favorite: 0
 ---
 
 When on call, it’s not unusual to see a patient, write an order and quickly move on to the next pressing issue, forgetting to write a note in the patient’s chart.<!--more--> I really mean “forget”. During daytime, it’s automatic: you see a patient you write a note. Nights are different. It’s hard to describe, but the atmosphere is different. There are fewer people running around, it’s quieter, darker… And you’re busy. Very busy. So it’s easier to forget to write a note.

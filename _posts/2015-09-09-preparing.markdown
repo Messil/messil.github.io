@@ -2,7 +2,7 @@
 layout: post
 title:  "First Night On Call: How To Prepare"
 date:   2015-09-09 21:15:03
-favorite: 0
+favorite: 1
 ---
 
 Hopefully, unlike my [situation](/the-story/), you’ll have time to prepare for your first night on call. It can be so stressful that many forget to bring some essentials with them. Here’s a list on what to bring with you.<!--more-->
