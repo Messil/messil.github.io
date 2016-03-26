@@ -2,7 +2,7 @@
 layout: post
 title:  "Medical Apps For Starting Residency (iOS)"
 date:   2015-08-08 21:15:03
-favorite: 1
+favorite: 0
 ---
 
 <!--more-->
