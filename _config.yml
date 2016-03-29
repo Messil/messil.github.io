@@ -1,12 +1,9 @@
 # Site settings
 title: MD on Call
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: The ultimate application written and designed to help you survive your first nights on call.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://messil.github.io" # the base hostname & protocol for your site
+url: "http://mdoncalltheapp.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -32,7 +29,7 @@ excerpt_separator: <!--more-->
 #prose settings
 prose:
   rooturl: '_posts'
-  siteurl: 'http://messil.github.io'
+  siteurl: 'http://mdoncalltheapp.com'
   media: 'media'
   ignore:
     - index.html
