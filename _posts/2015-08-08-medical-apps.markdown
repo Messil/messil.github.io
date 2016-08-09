@@ -6,7 +6,7 @@ favorite: 1
 ---
 
 
-Our apps are good, but they don't cover every aspect of a resident's required app collection. Here are my recommended apps for iOS.
+Our apps are good, but they don’t cover every aspect of a resident’s required app collection. Here are my recommended apps for iOS.
 
 <!--more-->
 
