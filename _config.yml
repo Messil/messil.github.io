@@ -1,7 +1,7 @@
 # Site settings
 title: MD on Call
 email: your-email@domain.com
-description: The ultimate application written and designed to help you survive your first nights on call.
+description: MD on Call was written and designed to be the most efficient tool to help interns and junior residents survive their first nights on call. At 2AM you want - and need - to be efficient. Be efficient with MD on Call for iOS and Android.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mdoncalltheapp.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
