@@ -25,7 +25,7 @@ What more is there to say?
 [CXR atlas](http://www.meddean.luc.edu/lumen/meded/medicine/pulmonar/cxr/atlas/cxratlas_f.htm)  
 We added X-ray examples to the newest version of MD on Call to allow the user to have access to clinically meaningful X-rays quickly, but sometimes, we want to study using a complete library, and this is the best I have found. It hasn’t been updated since 2006, but let’s face it… X-rays haven’t changed much, so I assume it’s still current.
 
-[REJ](http://mdoncalltheapp.com/REJ_1.2.pdf)
+[REJ](http://mdoncalltheapp.com/REJ_1.2.pdf)  
 For our French-speaking residents, here’s a great summary from our Sherbrooke residents. It’s loosely based on MD on Call, but in French!
 
 Have a good website to add to this list? Send me an email <mailto:marc-emile@messil.com>.
